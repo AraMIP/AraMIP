@@ -19,7 +19,7 @@ The purpose of this repository is to:
 ### 📦 Repository Contents
 * AraMIP_Annotation_Instructions.pdf — Official annotation guidelines for the AraMIP framework.
 * static/ — Repository assets (including the project logo).
-* corpus_preparation - Information about the corpus preparation strategy.
+* corpus_preparation - Information about the corpus preparation strategy, and the corpus that was created for the study.
 
 &nbsp;
 #### 📚 Folder structure
